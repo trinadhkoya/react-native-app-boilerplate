@@ -1,5 +1,0 @@
-{
-  "presets": ["react-native"],
-  "retainLines": true,
-  "plugins": ["transform-inline-environment-variables"]
-}
