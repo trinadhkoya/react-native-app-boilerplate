@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="627a73d7-bc29-44f2-a3f4-89e8b9adee68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_globals/API.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_globals/HttpRequest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/_globals/screen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -29,9 +31,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="eslintrc" value="6" />
+          <entry key="eslintrc" value="7" />
           <entry key="gitignore" value="5" />
-          <entry key="js" value="88" />
+          <entry key="js" value="97" />
           <entry key="json" value="7" />
           <entry key="md" value="1" />
           <entry key="ts" value="3" />
@@ -40,8 +42,8 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="4" />
-          <entry key="JSON" value="13" />
-          <entry key="JavaScript" value="88" />
+          <entry key="JSON" value="14" />
+          <entry key="JavaScript" value="97" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="TypeScript" value="3" />
@@ -57,7 +59,7 @@
         <counts>
           <entry key="dummy" value="21" />
           <entry key="gitignore" value="1" />
-          <entry key="js" value="946" />
+          <entry key="js" value="1190" />
           <entry key="json" value="26" />
           <entry key="md" value="2" />
           <entry key="txt" value="73" />
@@ -67,7 +69,7 @@
         <counts>
           <entry key="Git file" value="1" />
           <entry key="JSON" value="26" />
-          <entry key="JavaScript" value="946" />
+          <entry key="JavaScript" value="1190" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="94" />
         </counts>
@@ -77,16 +79,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
+        <entry file="file://$PROJECT_DIR$/src/_globals/HttpRequest.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            <state relative-caret-position="112">
+              <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-end-line="17" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/configureStore.js">
+        <entry file="file://$PROJECT_DIR$/src/_globals/API.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
               <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
@@ -95,10 +100,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
+        <entry file="file://$PROJECT_DIR$/src/_globals/screen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="356">
-              <caret line="239" column="49" lean-forward="true" selection-end-line="239" selection-end-column="49" />
+            <state relative-caret-position="582">
+              <caret line="90" column="13" lean-forward="true" selection-end-line="93" />
             </state>
           </provider>
         </entry>
@@ -148,11 +153,15 @@
         <option value="$PROJECT_DIR$/src/screens.js" />
         <option value="$PROJECT_DIR$/src/Test.js" />
         <option value="$PROJECT_DIR$/src/utils/colorPalette.js" />
-        <option value="$PROJECT_DIR$/src/AuthLoading.js" />
         <option value="$PROJECT_DIR$/src/_globals/ProgressBar.js" />
         <option value="$PROJECT_DIR$/src/_globals/colorPalette.js" />
         <option value="$PROJECT_DIR$/src/configureStore.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/_globals/API_GET.js" />
+        <option value="$PROJECT_DIR$/src/_globals/API.js" />
+        <option value="$PROJECT_DIR$/src/AuthLoading.js" />
+        <option value="$PROJECT_DIR$/src/_globals/HttpRequest.js" />
+        <option value="$PROJECT_DIR$/src/_globals/screen.js" />
       </list>
     </option>
   </component>
@@ -183,7 +192,7 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
-    <option name="width" value="1054" />
+    <option name="width" value="1039" />
     <option name="height" value="810" />
   </component>
   <component name="ProjectView">
@@ -204,6 +213,12 @@
               <item name="react-native-init" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="react-native-init" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-init" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="_globals" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -211,7 +226,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="pack&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/package.json&#10;Auth&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/AuthLoading.js&#10;ACT&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Login/ACTION_TYPES.js&#10;sc&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Screen1.js&#10;.gi&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/.gitignore&#10;pac&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/package.json&#10;.es&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/.eslintrc&#10;App&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/App.js&#10;Scree&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Screen1.js" />
+    <property name="SearchEverywhereHistoryKey" value="rou&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/routNames.js&#10;pack&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/package.json&#10;Auth&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/AuthLoading.js&#10;ACT&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Login/ACTION_TYPES.js&#10;sc&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Screen1.js&#10;.gi&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/.gitignore&#10;pac&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/package.json&#10;.es&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/.eslintrc&#10;App&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/App.js&#10;Scree&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Screen1.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -224,7 +239,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="yarn" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.JavaScript" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
   <component name="RecentsManager">
@@ -264,7 +279,7 @@
       <workItem from="1537300683236" duration="2878000" />
       <workItem from="1537590628009" duration="545000" />
       <workItem from="1537591194203" duration="4576000" />
-      <workItem from="1537603203316" duration="5559000" />
+      <workItem from="1537603203316" duration="7651000" />
     </task>
     <task id="LOCAL-00001" summary=".gitignore file">
       <created>1537205242777</created>
@@ -284,7 +299,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19790000" />
+    <option name="totallyTimeSpent" value="21882000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="810" extended-state="6" />
@@ -391,13 +406,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.eslintrc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="24" lean-forward="true" selection-end-line="51" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Login/ACTION_TYPES.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
@@ -453,39 +461,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/screens.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="66" selection-end-line="15" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routNames.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_globals/ProgressBar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AuthLoading.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="27" lean-forward="true" selection-end-line="24" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -507,6 +488,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="86">
+          <caret line="225" lean-forward="true" selection-start-line="225" selection-end-line="225" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_globals/API_GET.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="355">
@@ -521,10 +512,58 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.eslintrc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="239" column="49" lean-forward="true" selection-end-line="239" selection-end-column="49" />
+        <state relative-caret-position="296">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_globals/API.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AuthLoading.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="66" selection-end-line="15" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routNames.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_globals/HttpRequest.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="16" column="50" lean-forward="true" selection-start-line="16" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_globals/screen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="90" column="13" lean-forward="true" selection-end-line="93" />
         </state>
       </provider>
     </entry>
