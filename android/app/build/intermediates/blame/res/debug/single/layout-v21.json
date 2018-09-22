@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_small_item.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/ceb67493bd6ff593e08c351d17f440b7/res/layout-v21/bottom_navigation_small_item.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/layout-v21/bottom_navigation_item.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/ceb67493bd6ff593e08c351d17f440b7/res/layout-v21/bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/layout-v21/notification_action.xml"
+    }
+]

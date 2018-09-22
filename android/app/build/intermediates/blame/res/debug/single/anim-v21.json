@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/5ce88c1675fbbf57cf43c73175ebed4d/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/5ce88c1675fbbf57cf43c73175ebed4d/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_out.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/3ccb9466cd59aeef230e213d2024f5f7/res/anim/catalyst_fade_out.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/5ce88c1675fbbf57cf43c73175ebed4d/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/slide_up.xml",
+        "source": "/Users/trinadhkoya/react-native-init/node_modules/react-native-navigation/lib/android/app/build/intermediates/packaged_res/reactNative55/debug/anim/slide_up.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/slide_down.xml",
+        "source": "/Users/trinadhkoya/react-native-init/node_modules/react-native-navigation/lib/android/app/build/intermediates/packaged_res/reactNative55/debug/anim/slide_down.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/catalyst_fade_in.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/3ccb9466cd59aeef230e213d2024f5f7/res/anim/catalyst_fade_in.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_out.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/3ccb9466cd59aeef230e213d2024f5f7/res/anim/catalyst_push_up_out.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/design_fab_out.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/5ce88c1675fbbf57cf43c73175ebed4d/res/anim/design_fab_out.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_down.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/3ccb9466cd59aeef230e213d2024f5f7/res/anim/catalyst_slide_down.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/catalyst_slide_up.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/3ccb9466cd59aeef230e213d2024f5f7/res/anim/catalyst_slide_up.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/5ce88c1675fbbf57cf43c73175ebed4d/res/anim/design_snackbar_in.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/fab_scale_down.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/cf5a927756399af7489dc83ddd8f330c/res/anim/fab_scale_down.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/design_fab_in.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/5ce88c1675fbbf57cf43c73175ebed4d/res/anim/design_fab_in.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/5ce88c1675fbbf57cf43c73175ebed4d/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/fab_slide_out_to_left.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/cf5a927756399af7489dc83ddd8f330c/res/anim/fab_slide_out_to_left.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/fab_slide_out_to_right.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/cf5a927756399af7489dc83ddd8f330c/res/anim/fab_slide_out_to_right.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/fab_scale_up.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/cf5a927756399af7489dc83ddd8f330c/res/anim/fab_scale_up.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/5ce88c1675fbbf57cf43c73175ebed4d/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/fab_slide_in_from_left.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/cf5a927756399af7489dc83ddd8f330c/res/anim/fab_slide_in_from_left.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/catalyst_push_up_in.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/react-native-0.55.0.aar/3ccb9466cd59aeef230e213d2024f5f7/res/anim/catalyst_push_up_in.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/anim/fab_slide_in_from_right.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/cf5a927756399af7489dc83ddd8f330c/res/anim/fab_slide_in_from_right.xml"
+    }
+]

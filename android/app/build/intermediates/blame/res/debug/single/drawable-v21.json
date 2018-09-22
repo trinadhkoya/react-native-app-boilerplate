@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/5ce88c1675fbbf57cf43c73175ebed4d/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/5ce88c1675fbbf57cf43c73175ebed4d/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/5ce88c1675fbbf57cf43c73175ebed4d/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/drawable-v21/item_background.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/ceb67493bd6ff593e08c351d17f440b7/res/drawable-v21/item_background.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/design-25.4.0.aar/5ce88c1675fbbf57cf43c73175ebed4d/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/trinadhkoya/react-native-init/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/trinadhkoya/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.4.0.aar/17a0b5de1a1bd128e63ddac5ae565ad4/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    }
+]

@@ -1,0 +1,21 @@
+language: node_js
+node_js:
+  - "8"
+install:
+  - npm install
+script:
+  - npm run test
+  - npm run release
+  - npm run demo
+  - npm run docs:install
+  - npm run docs:build
+
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GIT_TOKEN
+  keep-history: true
+  local-dir: uilib-docs/public
+  on:
+    branch: master
+
