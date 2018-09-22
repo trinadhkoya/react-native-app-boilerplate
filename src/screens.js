@@ -1,15 +1,15 @@
 import {Navigation} from 'react-native-navigation';
-
-import App from './App';
-import Screen1 from './Screen1';
-import {AUTH_LOADING, SCREEN_1, SCREEN_APP} from './routNames';
 import AuthLoading from './AuthLoading';
+import {SCREEN} from './routNames';
+import Test from './Test';
 
 export function registerScreens() {
-
-    Navigation.registerComponent(SCREEN_APP, () => App);
-    Navigation.registerComponent(SCREEN_1, () => Screen1);
-    Navigation.registerComponent(AUTH_LOADING, () => AuthLoading);
-
-
+    Navigation.registerComponent(SCREEN.AUTH_LOADING, () => AuthLoading);
+    Navigation.registerComponent(SCREEN.LOGIN, () => Test);
+    Navigation.registerComponent(SCREEN.SIGN_UP, () => Test);
+    Navigation.registerComponent(SCREEN.FORGOT_PASSWORD, () => Test);
+    Navigation.registerComponent(SCREEN.HOME_TAB, () => Test);
+    Navigation.registerComponent(SCREEN.SEARCH_TAB, () => Test);
+    Navigation.registerComponent(SCREEN.ACCOUNT_TAB, () => Test);
+    Navigation.registerComponent(SCREEN.SETTINGS_TAB, () => Test);
 }

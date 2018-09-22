@@ -1,5 +1,5 @@
 Arguments: 
-  /usr/local/Cellar/node/10.9.0/bin/node /usr/local/Cellar/yarn/1.9.4/libexec/bin/yarn.js add redux-saga
+  /usr/local/Cellar/node/10.9.0/bin/node /usr/local/Cellar/yarn/1.9.4/libexec/bin/yarn.js install
 
 PATH: 
   /usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/trinadhkoya/Library/Android/sdk/tools:/Users/trinadhkoya/Library/Android/sdk/platform-tools
@@ -32,10 +32,18 @@ npm manifest:
     },
     "main": "index.js",
     "dependencies": {
+      "lodash": "^4.17.11",
+      "moment": "^2.22.2",
       "react": "^16.3.0-alpha.1",
       "react-native": "0.55.0",
+      "react-native-linear-gradient": "^2.4.2",
       "react-native-navigation": "^2.0.0",
-      "react-native-ui-lib": "^3.3.32"
+      "react-native-ui-lib": "^3.3.32",
+      "react-redux": "^5.0.7",
+      "redux": "^4.0.0",
+      "redux-logger": "^3.0.6",
+      "redux-persist": "^5.10.0",
+      "redux-saga": "^0.16.0"
     },
     "devDependencies": {
       "babel-eslint": "^8.2.2",
@@ -49,7 +57,10 @@ npm manifest:
     },
     "jest": {
       "preset": "react-native"
-    }
+    },
+    "author": "Trinadh Koya",
+    "license": "MIT",
+    "homepage": "https://github.com/trinadhkoya"
   }
 
 yarn manifest: 

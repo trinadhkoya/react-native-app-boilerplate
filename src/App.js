@@ -1,4 +1,4 @@
-/* eslint-disable react-native/no-color-literals */
+/* eslint-disable react-native/no-colors-literals */
 import React, {Component} from 'react';
 import {StyleSheet} from 'react-native';
 import PropTypes from 'prop-types';
@@ -30,7 +30,7 @@ class App extends Component {
                 options: {
                     topBar: {
                         title: {
-                            text: 'Screen1',
+                            text: 'Test',
                         }
                     }
                 }
@@ -74,7 +74,7 @@ const styles = StyleSheet.create({
         textAlign: 'center',
         margin: 10,
     },
-    // eslint-disable-next-line react-native/no-color-literals
+    // eslint-disable-next-line react-native/no-colors-literals
     instructions: {
         textAlign: 'center',
         color: '#333333',

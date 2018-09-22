@@ -1,15 +1,14 @@
 import React, {PureComponent} from 'react';
 import {StyleSheet} from 'react-native';
-import {View} from 'react-native-ui-lib';
-import ProgressBar from './_globals/ProgressBar';
+import {Text, View} from 'react-native-ui-lib';
 import {colors} from './_globals/colorPalette';
 
-class AuthLoading extends PureComponent {
+class Test extends PureComponent {
 
     render() {
         return (
             <View flex center style={styles.container}>
-                <ProgressBar/>
+                <Text>Screen1</Text>
             </View>
         );
     }
@@ -21,4 +20,4 @@ const styles = StyleSheet.create({
     }
 });
 
-export default AuthLoading;
+export default Test;
