@@ -1,0 +1,25 @@
+# Created by .ignore support plugin (hsz.mobi)
+android/app/build/generated/assets/
+android/app/build/generated/res/
+android/app/build/generated/source/aidl/
+android/app/build/generated/source/apt/
+android/app/build/generated/source/rs/
+android/app/build/intermediates/assets/
+android/app/build/intermediates/check-manifest/
+android/app/build/intermediates/incremental/mergeDebugResources/aapt-temp/
+android/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/
+android/app/build/intermediates/incremental/processDebugResources/
+android/app/build/intermediates/incremental/validateSigningDebug/
+android/app/build/intermediates/jniLibs/
+android/app/build/intermediates/lint/
+android/app/build/intermediates/prebuild/
+android/app/build/intermediates/rs/
+android/app/build/intermediates/shaders/
+android/app/build/tmp/
+node_modules/w3c-hr-time/coverage/
+/node_modules/
+/package-lock.json
+/yarn.lock
+/yarn-error.log
+/ios/build/
+/android/app/build/
