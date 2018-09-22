@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="627a73d7-bc29-44f2-a3f4-89e8b9adee68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_globals/ProgressBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/_globals/colorPalette.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v21/values-v21.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AuthLoading.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuthLoading.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Screen1.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/colorPalette.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/routNames.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routNames.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/screens.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn-error.log" beforeDir="false" afterPath="$PROJECT_DIR$/yarn-error.log" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -45,18 +30,18 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="eslintrc" value="6" />
-          <entry key="gitignore" value="4" />
-          <entry key="js" value="87" />
-          <entry key="json" value="6" />
+          <entry key="gitignore" value="5" />
+          <entry key="js" value="88" />
+          <entry key="json" value="7" />
           <entry key="md" value="1" />
           <entry key="ts" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Git file" value="3" />
-          <entry key="JSON" value="12" />
-          <entry key="JavaScript" value="87" />
+          <entry key="Git file" value="4" />
+          <entry key="JSON" value="13" />
+          <entry key="JavaScript" value="88" />
           <entry key="Markdown" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="TypeScript" value="3" />
@@ -71,7 +56,8 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="21" />
-          <entry key="js" value="945" />
+          <entry key="gitignore" value="1" />
+          <entry key="js" value="946" />
           <entry key="json" value="26" />
           <entry key="md" value="2" />
           <entry key="txt" value="73" />
@@ -79,8 +65,9 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="Git file" value="1" />
           <entry key="JSON" value="26" />
-          <entry key="JavaScript" value="945" />
+          <entry key="JavaScript" value="946" />
           <entry key="Markdown" value="2" />
           <entry key="PLAIN_TEXT" value="94" />
         </counts>
@@ -89,11 +76,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="355">
+              <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/configureStore.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="23" column="15" lean-forward="true" selection-end-line="32" />
+            <state relative-caret-position="356">
+              <caret line="239" column="49" lean-forward="true" selection-end-line="239" selection-end-column="49" />
             </state>
           </provider>
         </entry>
@@ -132,7 +137,6 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/colorPalette.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/configureStore.js" />
         <option value="$PROJECT_DIR$/src/Screen1.js" />
         <option value="$PROJECT_DIR$/src/hi.js" />
         <option value="$PROJECT_DIR$/src/Login/actionTypes.js" />
@@ -147,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/AuthLoading.js" />
         <option value="$PROJECT_DIR$/src/_globals/ProgressBar.js" />
         <option value="$PROJECT_DIR$/src/_globals/colorPalette.js" />
+        <option value="$PROJECT_DIR$/src/configureStore.js" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -176,7 +181,7 @@
   <component name="PackageJsonUpdateNotifier">
     <dismissed value="$PROJECT_DIR$/package.json" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1054" />
     <option name="height" value="810" />
@@ -194,6 +199,11 @@
               <item name="react-native-init" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-native-init" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="react-native-init" type="b2602c69:ProjectViewProjectNode" />
+              <item name="react-native-init" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -201,8 +211,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Auth&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/AuthLoading.js&#10;ACT&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Login/ACTION_TYPES.js&#10;sc&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Screen1.js&#10;.gi&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/.gitignore&#10;pac&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/package.json&#10;.es&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/.eslintrc&#10;pack&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/package.json&#10;App&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/App.js&#10;Scree&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Screen1.js" />
+    <property name="SearchEverywhereHistoryKey" value="pack&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/package.json&#10;Auth&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/AuthLoading.js&#10;ACT&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Login/ACTION_TYPES.js&#10;sc&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Screen1.js&#10;.gi&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/.gitignore&#10;pac&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/package.json&#10;.es&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/.eslintrc&#10;App&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/App.js&#10;Scree&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Screen1.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
@@ -253,7 +264,7 @@
       <workItem from="1537300683236" duration="2878000" />
       <workItem from="1537590628009" duration="545000" />
       <workItem from="1537591194203" duration="4576000" />
-      <workItem from="1537603203316" duration="4291000" />
+      <workItem from="1537603203316" duration="5559000" />
     </task>
     <task id="LOCAL-00001" summary=".gitignore file">
       <created>1537205242777</created>
@@ -273,13 +284,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18522000" />
+    <option name="totallyTimeSpent" value="19790000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1054" height="810" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="810" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27623764" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19985673" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="npm" order="2" side_tool="true" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -339,13 +350,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/configureStore.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/reducers.js">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -384,13 +388,6 @@
             <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="222">
-          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -510,10 +507,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="23" column="22" lean-forward="true" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/configureStore.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="23" column="15" lean-forward="true" selection-end-line="32" />
+        <state relative-caret-position="356">
+          <caret line="239" column="49" lean-forward="true" selection-end-line="239" selection-end-column="49" />
         </state>
       </provider>
     </entry>
