@@ -7,6 +7,7 @@ function count(obj) {
 }
 
 /**
+  There’s a special syntax to work with promises in a more comfort fashion called “async/await”. It’s surprisingly easy to understand and use.
  * This is to handle GET Requests
  * @param type -> fo instance 'baseURL'.These might change when you are handling with Multiple Base URLS
  * @param api_name -> for instance '/user/'
@@ -14,7 +15,7 @@ function count(obj) {
  * @returns {Promise<T | never>}
  * @constructor
  */
-export const GET = (type, api_name, parameters) => {
+export const GET = async (type, api_name, parameters) => {
     let str = '';
     for (let i = 0; i < count(parameters); i++) {
         let theKey = Object.keys(parameters)[i];
@@ -34,7 +35,7 @@ export const GET = (type, api_name, parameters) => {
     default:
         break;
     }
-    return fetch(BASE_URL + api_name + '?' + str, {method: 'GET'})
+    return await fetch(BASE_URL + api_name + '?' + str, {method: 'GET'})
         .then((response) => {
             return response.json();
         })
@@ -55,7 +56,7 @@ export const GET = (type, api_name, parameters) => {
  * @returns {Promise<T | never>}
  * @constructor
  */
-export const POST = (type, api_name, parameters) => {
+export const POST = async (type, api_name, parameters) => {
 
     let newParameters = parameters;
     if (!newParameters.type) {
@@ -74,7 +75,7 @@ export const POST = (type, api_name, parameters) => {
     default:
         break;
     }
-    return fetch(BASE_URL + api_name, {
+    return await fetch(BASE_URL + api_name, {
         method: 'POST',
         headers: {
             'Accept': 'application/json',

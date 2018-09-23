@@ -35,6 +35,11 @@
   "jest": {
     "preset": "react-native"
   },
+  "rnpm": {
+    "assets": [
+      "./src/assets/fonts/"
+    ]
+  },
   "author": "Trinadh Koya",
   "license": "MIT",
   "homepage": "https://github.com/trinadhkoya"

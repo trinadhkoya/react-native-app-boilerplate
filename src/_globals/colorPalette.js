@@ -22,3 +22,7 @@ export const colors = {
     bdInput: '#cbcbcb'
 
 };
+export const primaryTextColor = '#444';
+export const secondaryTextColor = '#999';
+export const primaryGeneralColor = '#D96A2F';
+export const secondaryGeneralColor = '#E35EA3';
