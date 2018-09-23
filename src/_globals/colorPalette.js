@@ -2,27 +2,16 @@ export const colors = {
     white: '#fff',
     red: '#ff172f',
     grey: '#818181',
-
-    txtMain: '#00a699',
-    txtMainRed: '#FF5A5F',
-    txtDescription: '#757575',
-    txtDark: '#484848',
-    txtWhite: '#ffffff',
-
-    bgMain: '#00a699',
-    bgMainDark: '#007e8c',
-    bgMainRed: '#FF5A5F',
-    bgWhite: '#ffffff',
-    bgError: '#fb642d',
-    bgChat: '#f1f1f1',
-
-    bdMain: '#00a699',
-    bdWhite: '#ffffff',
-    bdLine: '#dddddd',
-    bdInput: '#cbcbcb'
+    steelblue: '#4078c0',
+    nightRider: '#333',
+    whitesmoke: '#f5f5f5',
+    snow: '#fafafa',
+    butterflyBush: '#6e5494',
+    apple: '#6CC644',
+    harleyDavidsonOrange: '#BD2C00'
 
 };
-export const primaryTextColor = '#444';
+export const primaryColor = colors.nightRider;
 export const secondaryTextColor = '#999';
 export const primaryGeneralColor = '#D96A2F';
 export const secondaryGeneralColor = '#E35EA3';

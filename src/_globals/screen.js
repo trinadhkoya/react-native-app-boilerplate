@@ -2,10 +2,10 @@
 import {Dimensions, PixelRatio, Platform} from 'react-native';
 
 // Retrieve initial screen's width
-let screenWidth = Dimensions.get('window').width;
+export let screenWidth = Dimensions.get('window').width;
 
 // Retrieve initial screen's height
-let screenHeight = Dimensions.get('window').height;
+export let screenHeight = Dimensions.get('window').height;
 let pixelRatio = PixelRatio.get();
 
 /**
@@ -96,15 +96,10 @@ const formatNumber = (num) => {
     return num > 999 ? (num / 1000).toFixed(1) + 'k' : num;
 };
 
-class UIConstants {
-    static AppbarHeight = Platform.OS === 'ios' ? 44 : 56;
-    static StatusbarHeight = Platform.OS === 'ios' ? 20 : 0;
-    static HeaderHeight = UIConstants.AppbarHeight + UIConstants.StatusbarHeight;
-}
 
 const isIphoneX = () => Platform.OS === 'ios' && !Platform.isPad && !Platform.isTVOS && (screenHeight === 812 || screenWidth === 812);
 
-const normalize = size => {
+export const normalize = size => {
     if (pixelRatio >= 2 && pixelRatio < 3) {
         // iphone 5s and older Androids
         if (screenWidth < 360) {
@@ -158,14 +153,13 @@ const normalize = size => {
     // if older device ie pixelRatio !== 2 || 3 || 3.5
         return size;
 };
-export {
+export default {
     widthPercentageToDP,
     heightPercentageToDP,
     listenOrientationChange,
     removeOrientationListener,
     hexToRGB,
     formatNumber,
-    UIConstants,
     hexToRgbA, isIphoneX,
-    normalize
+    normalize, screenWidth, screenHeight
 };

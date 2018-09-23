@@ -2,6 +2,7 @@ import {Navigation} from 'react-native-navigation';
 import AuthLoading from './AuthLoading';
 import {SCREEN} from './routNames';
 import Test from './Test';
+import WelcomeScreen from './WelcomeScreen';
 
 export function registerScreens() {
     Navigation.registerComponent(SCREEN.AUTH_LOADING, () => AuthLoading);
@@ -12,4 +13,6 @@ export function registerScreens() {
     Navigation.registerComponent(SCREEN.SEARCH_TAB, () => Test);
     Navigation.registerComponent(SCREEN.ACCOUNT_TAB, () => Test);
     Navigation.registerComponent(SCREEN.SETTINGS_TAB, () => Test);
+    Navigation.registerComponent(SCREEN.WELCOME_SCREEN, () => WelcomeScreen);
+
 }

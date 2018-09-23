@@ -10,7 +10,7 @@ Navigation.events().registerAppLaunchedListener(() => {
     Navigation.setRoot({
         root: {
             component: {
-                name: SCREEN.AUTH_LOADING
+                name: SCREEN.WELCOME_SCREEN
             }
         }
     });

@@ -1,4 +1,5 @@
 export const SCREEN = {
+    WELCOME_SCREEN: 'reactNative.WelcomeScreen',
     AUTH_LOADING: 'reactNative.AuthLoading',
     LOGIN: 'reactNative.Login',
     SIGN_UP: 'reactNative.SignUp',

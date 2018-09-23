@@ -4,7 +4,7 @@ import {colors} from './colorPalette';
 
 const ProgressBar = () => (
     <View style={styles.progressBar}>
-        <ActivityIndicator size="large" color={Platform.OS === 'ios' ? colors.grey : colors.red}/>
+        <ActivityIndicator size="large" color={Platform.OS === 'ios' ? colors.grey : colors.grey}/>
     </View>
 );
 
