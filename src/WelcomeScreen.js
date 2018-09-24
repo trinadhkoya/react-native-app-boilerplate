@@ -2,8 +2,9 @@ import React, {PureComponent} from 'react';
 import {Image, StyleSheet, View} from 'react-native';
 import {screenWidth} from './_globals/screen';
 import appStyles from './_globals/styles';
-import Button from './components/Button/button';
 import TextView from './_Theme/TextView';
+import Button from './components/Button';
+import {colors} from './_globals/colorPalette';
 
 class WelcomeScreen extends PureComponent {
 
@@ -12,10 +13,10 @@ class WelcomeScreen extends PureComponent {
             <View style={[appStyles.container, styles.addContainer]}>
                 <View style={styles.topView}>
 
-                    <TextView h4 style={styles.introText}>Welcome,Github</TextView>
+                    <TextView h3 style={styles.introText}>Welcome,Github</TextView>
 
                     <Image style={styles.img}
-                        source={require('./assets/img/brand_logo.png')}/>
+                           source={require('./assets/img/brand_logo.png')}/>
 
                     <View style={styles.row}>
                         <Button title={'Login'} style={styles.btn} onPress={() => {
@@ -53,10 +54,12 @@ const styles = StyleSheet.create({
     },
     addContainer: {
         justifyContent: 'center',
-        alignItems: 'center'
+        alignItems: 'center',
+        backgroundColor: colors.whitesmoke
     },
     introText: {
         marginBottom: 20,
+
     }
 
 

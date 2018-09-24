@@ -1,10 +1,10 @@
 import React, {PureComponent} from 'react';
-
 import {StyleSheet, TouchableOpacity} from 'react-native';
 import PropTypes from 'prop-types';
-import TextView from '../../_Theme/TextView';
-import {colors} from '../../_globals/colorPalette';
-import isIphoneX from '../../_globals/screen';
+import TextView from '../_Theme/TextView';
+import {colors} from '../_globals/colorPalette';
+import {isIphoneX} from '../_globals/screen';
+
 
 export default class Button extends PureComponent {
     render() {

@@ -1,12 +1,15 @@
 // packages
 import {Dimensions, PixelRatio, Platform} from 'react-native';
-
+import {Navigation} from 'react-native-navigation';
 // Retrieve initial screen's width
 export let screenWidth = Dimensions.get('window').width;
 
 // Retrieve initial screen's height
 export let screenHeight = Dimensions.get('window').height;
 let pixelRatio = PixelRatio.get();
+export const statusBarHeight = Navigation.constants().statusBarHeight;
+export const topBarHeight = Navigation.constants().topBarHeight;
+export const bottomTabsHeight = Navigation.constants().bottomTabsHeight;
 
 /**
  * Converts provided width percentage to independent pixel (dp).
@@ -97,7 +100,7 @@ const formatNumber = (num) => {
 };
 
 
-const isIphoneX = () => Platform.OS === 'ios' && !Platform.isPad && !Platform.isTVOS && (screenHeight === 812 || screenWidth === 812);
+export const isIphoneX = () => Platform.OS === 'ios' && !Platform.isPad && !Platform.isTVOS && (screenHeight === 812 || screenWidth === 812);
 
 export const normalize = size => {
     if (pixelRatio >= 2 && pixelRatio < 3) {

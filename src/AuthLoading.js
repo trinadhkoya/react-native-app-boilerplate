@@ -1,6 +1,5 @@
 import React, {PureComponent} from 'react';
-import {StyleSheet} from 'react-native';
-import {View} from 'react-native-ui-lib';
+import {StyleSheet, View} from 'react-native';
 import ProgressBar from './_globals/ProgressBar';
 import {colors} from './_globals/colorPalette';
 import TextView from './_Theme/TextView';

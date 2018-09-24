@@ -1,3 +1,3 @@
 dependencies: \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/third-party/folly-2016.09.26.00/folly/Unicode.cpp \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Unicode.h
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/third-party/folly-2016.09.26.00/folly/Unicode.cpp \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/../third-party/folly-2016.09.26.00/folly/Unicode.h

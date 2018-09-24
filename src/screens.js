@@ -14,5 +14,8 @@ export function registerScreens() {
     Navigation.registerComponent(SCREEN.ACCOUNT_TAB, () => Test);
     Navigation.registerComponent(SCREEN.SETTINGS_TAB, () => Test);
     Navigation.registerComponent(SCREEN.WELCOME_SCREEN, () => WelcomeScreen);
+    //only when you deal with Redux
+    // Navigation.registerComponentWithRedux(SCREEN.AUTH_LOADING, () => AuthLoading,Provider,store);
+
 
 }

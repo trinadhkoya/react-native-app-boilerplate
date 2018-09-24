@@ -1,14 +1,14 @@
 import React, {PureComponent} from 'react';
-import {StyleSheet} from 'react-native';
-import {Text, View} from 'react-native-ui-lib';
+import {StyleSheet,View} from 'react-native';
 import {colors} from './_globals/colorPalette';
+import TextView from './_Theme/TextView';
 
 class Test extends PureComponent {
 
     render() {
         return (
             <View flex center style={styles.container}>
-                <Text>Screen1</Text>
+                <TextView>Screen1</TextView>
             </View>
         );
     }
