@@ -5,8 +5,29 @@ import appStyles from './_globals/styles';
 import TextView from './_Theme/TextView';
 import Button from './components/Button';
 import {colors} from './_globals/colorPalette';
+import {goHome, goToAuth} from './navigation';
 
 class WelcomeScreen extends PureComponent {
+
+    constructor(props) {
+        super(props);
+        this.openLoginScreen = this.openLoginScreen.bind(this);
+        this.openSignUpScreen = this.openSignUpScreen.bind(this);
+        this.openForgotPasswordScreen = this.openForgotPasswordScreen.bind(this);
+
+    }
+
+    openLoginScreen() {
+        goToAuth();
+    }
+
+    openSignUpScreen() {
+        goHome();
+    }
+
+    openForgotPasswordScreen() {
+        goToAuth();
+    }
 
     render() {
         return (
@@ -16,15 +37,15 @@ class WelcomeScreen extends PureComponent {
                     <TextView h3 style={styles.introText}>Welcome,Github</TextView>
 
                     <Image style={styles.img}
-                           source={require('./assets/img/brand_logo.png')}/>
+                        source={require('./assets/img/brand_logo.png')}/>
 
                     <View style={styles.row}>
-                        <Button title={'Login'} style={styles.btn} onPress={() => {
-                        }}/>
-                        <Button title={'Sign Up'} style={styles.btn} onPress={() => {
-                        }}/>
+                        <Button title={'Login'} style={styles.btn} onPress={this.openLoginScreen}/>
+                        <Button title={'Sign Up'} style={styles.btn} onPress={this.openSignUpScreen}/>
                     </View>
-                    <TextView h5 style={appStyles.footerText}>Forgot password?</TextView>
+
+                    <TextView h5 style={appStyles.footerText} onPress={this.openForgotPasswordScreen}>Forgot
+                        password?</TextView>
 
                 </View>
             </View>
