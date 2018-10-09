@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.robolectric:sandbox:3.5.1@jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/sandbox/3.5.1/acfbba0143e3f5ad50722af0c70eb186e605a07d/sandbox-3.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.robolectric/sandbox/3.5.1/80b613355483c59b0e63371ddd9e02f800d9a7e6/sandbox-3.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,6 +1,7 @@
 import {Navigation} from 'react-native-navigation';
 import {SCREEN} from '../routNames';
 
+
 export const goToAuth = () => Navigation.setRoot({
     root: {
         bottomTabs: {
@@ -13,6 +14,8 @@ export const goToAuth = () => Navigation.setRoot({
                             bottomTab: {
                                 fontSize: 12,
                                 text: 'Tab1',
+                                icon: require('../assets/img/home.png')
+
                             }
                         }
                     },
@@ -23,7 +26,48 @@ export const goToAuth = () => Navigation.setRoot({
                         options: {
                             bottomTab: {
                                 fontSize: 12,
-                                text:'Tab2',
+                                text: 'Tab2',
+                                icon: require('../assets/img/menu.png')
+
+
+                            }
+                        }
+                    },
+                },
+                {
+                    component: {
+                        name: SCREEN.HOME_TAB,
+                        options: {
+                            bottomTab: {
+                                fontSize: 12,
+                                text: 'Tab3',
+                                icon: require('../assets/img/search.png')
+
+                            }
+                        }
+                    },
+                },
+                {
+                    component: {
+                        name: SCREEN.HOME_TAB,
+                        options: {
+                            bottomTab: {
+                                fontSize: 12,
+                                text: 'Tab4',
+                                icon: require('../assets/img/settings.png')
+
+                            }
+                        }
+                    },
+                },
+                {
+                    component: {
+                        name: SCREEN.HOME_TAB,
+                        options: {
+                            bottomTab: {
+                                fontSize: 12,
+                                text: 'Tab5',
+                                icon: require('../assets/img/user.png')
 
                             }
                         }
@@ -34,17 +78,34 @@ export const goToAuth = () => Navigation.setRoot({
     }
 });
 
-export const goHome = () => Navigation.setRoot({
+export const goSignUp = () => Navigation.setRoot({
     root: {
         stack: {
-            id: 'App',
+            options: {
+                topBar: {
+                    visible: true
+                }
+            },
             children: [
                 {
                     component: {
-                        name: SCREEN.SEARCH_TAB,
+                        name: SCREEN.HOME_TAB,
+                        passProps: {
+                            text: 'This is ' + SCREEN.HOME_TAB,
+                        }
+                    },
+                    topBar: {
+                        leftButtons: [
+                            {
+                                id: 'buttonOne',
+                                icon: require('../assets/img/home.png')
+                            }
+                        ],
                     }
-                }
-            ],
+
+                },
+
+            ]
         }
     }
 });

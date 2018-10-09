@@ -1,11 +1,11 @@
 import React, {PureComponent} from 'react';
-import {Image, StyleSheet, View} from 'react-native';
+import {StyleSheet, View} from 'react-native';
 import {screenWidth} from './_globals/screen';
 import appStyles from './_globals/styles';
 import TextView from './_Theme/TextView';
 import Button from './components/Button';
 import {colors} from './_globals/colorPalette';
-import {goHome, goToAuth} from './navigation';
+import {goSignUp, goToAuth} from './navigation';
 
 class WelcomeScreen extends PureComponent {
 
@@ -22,11 +22,11 @@ class WelcomeScreen extends PureComponent {
     }
 
     openSignUpScreen() {
-        goHome();
+        goSignUp();
     }
 
     openForgotPasswordScreen() {
-        goToAuth();
+        goSignUp();
     }
 
     render() {
@@ -34,10 +34,8 @@ class WelcomeScreen extends PureComponent {
             <View style={[appStyles.container, styles.addContainer]}>
                 <View style={styles.topView}>
 
-                    <TextView h3 style={styles.introText}>Welcome,Github</TextView>
+                    <TextView h3 style={styles.introText}>Welcome,</TextView>
 
-                    <Image style={styles.img}
-                        source={require('./assets/img/brand_logo.png')}/>
 
                     <View style={styles.row}>
                         <Button title={'Login'} style={styles.btn} onPress={this.openLoginScreen}/>

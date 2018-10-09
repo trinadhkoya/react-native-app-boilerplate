@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="627a73d7-bc29-44f2-a3f4-89e8b9adee68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Test2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/navigation/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/reactNativeInit.xcodeproj/project.xcworkspace/xcuserdata/trinadhkoya.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/ios/reactNativeInit.xcodeproj/project.xcworkspace/xcuserdata/trinadhkoya.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/javaCompile/jarAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/javaCompile/taskJars.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/javaCompile/taskJars.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/taskHistory/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/4.4/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/4.4/taskHistory/taskHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/android/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AuthLoading.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/AuthLoading.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Test.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/WelcomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/WelcomeScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_globals/ProgressBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/_globals/ProgressBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/navigation/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/navigation/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/screens.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -107,24 +119,26 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="js" value="32" />
+          <entry key="js" value="51" />
+          <entry key="png" value="1" />
           <entry key="ts" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JavaScript" value="32" />
+          <entry key="Image" value="1" />
+          <entry key="JavaScript" value="51" />
           <entry key="TypeScript" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="js" value="226" />
+          <entry key="js" value="395" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JavaScript" value="226" />
+          <entry key="JavaScript" value="395" />
         </counts>
       </usages-collector>
     </session>
@@ -132,31 +146,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/navigation/index.js">
+        <entry file="file://$PROJECT_DIR$/src/WelcomeScreen.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+            <state relative-caret-position="230">
+              <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
               <folding>
-                <element signature="e#0#51#0" expanded="true" />
+                <element signature="e#0#43#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/routNames.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/screens.js">
+        <entry file="file://$PROJECT_DIR$/src/navigation/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="22" lean-forward="true" selection-end-line="22" />
+            <state relative-caret-position="458">
+              <caret line="107" column="13" lean-forward="true" selection-end-line="111" />
               <folding>
                 <element signature="e#0#51#0" expanded="true" />
               </folding>
@@ -197,6 +202,8 @@
       <find>isIphoneX</find>
       <find>f5f5f5</find>
       <find>openLoginScreen</find>
+      <find>Test</find>
+      <find>FORGOT_PASSWORD</find>
     </findStrings>
     <replaceStrings>
       <replace>:</replace>
@@ -211,6 +218,8 @@
       <replace>'Montserrat-Thin'</replace>
       <replace>title</replace>
       <replace>;</replace>
+      <replace>AuthLoading</replace>
+      <replace>SCREEN.HOME_TAB</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -241,7 +250,6 @@
         <option value="$PROJECT_DIR$/src/_globals/HttpRequest.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/android/app/src/main/res/values/styles.xml" />
-        <option value="$PROJECT_DIR$/src/_globals/ProgressBar.js" />
         <option value="$PROJECT_DIR$/android/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/src/routNames.js" />
         <option value="$PROJECT_DIR$/index.js" />
@@ -256,16 +264,17 @@
         <option value="$PROJECT_DIR$/src/_globals/colorPalette.js" />
         <option value="$PROJECT_DIR$/src/components/Button/button.js" />
         <option value="$PROJECT_DIR$/src/_globals/styles.js" />
-        <option value="$PROJECT_DIR$/src/AuthLoading.js" />
         <option value="$PROJECT_DIR$/src/components/Button/Button.js" />
         <option value="$PROJECT_DIR$/src/_globals/screen.js" />
         <option value="$PROJECT_DIR$/src/components/Button.js" />
         <option value="$PROJECT_DIR$/src/screens/index.js" />
-        <option value="$PROJECT_DIR$/src/WelcomeScreen.js" />
-        <option value="$PROJECT_DIR$/src/Test.js" />
-        <option value="$PROJECT_DIR$/src/navigation/index.js" />
         <option value="$PROJECT_DIR$/src/Test2.js" />
+        <option value="$PROJECT_DIR$/src/Test.js" />
         <option value="$PROJECT_DIR$/src/screens.js" />
+        <option value="$PROJECT_DIR$/src/WelcomeScreen.js" />
+        <option value="$PROJECT_DIR$/src/AuthLoading.js" />
+        <option value="$PROJECT_DIR$/src/_globals/ProgressBar.js" />
+        <option value="$PROJECT_DIR$/src/navigation/index.js" />
       </list>
     </option>
   </component>
@@ -296,7 +305,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="931" />
+    <option name="width" value="1106" />
     <option name="height" value="812" />
   </component>
   <component name="ProjectView">
@@ -304,6 +313,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -314,17 +324,16 @@
             <path>
               <item name="react-native-app-boilerplate" type="b2602c69:ProjectViewProjectNode" />
               <item name="react-native-app-boilerplate" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Welcome&#9;FILE&#9;file:///Users/trinadhkoya/react-native-app-boilerplate/src/WelcomeScreen.js&#10;colo&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/_globals/colorPalette.js&#10;pack&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/package.json&#10;sc&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/_globals/screen.js&#10;Wel&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/WelcomeScreen.js&#10;regis&#9;null&#9;null&#10;Aut&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/AuthLoading.js&#10;inde&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Login/index.js&#10;Auth&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/AuthLoading.js&#10;pac&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/package.json&#10;Ht&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/_globals/HttpRequest.js&#10;pa&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/package.json&#10;rou&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/routNames.js&#10;ACT&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Login/ACTION_TYPES.js&#10;.gi&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/.gitignore&#10;.es&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/.eslintrc&#10;App&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/App.js&#10;Scree&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Screen1.js" />
+    <property name="SearchEverywhereHistoryKey" value="registerS&#9;null&#9;null&#10;inde&#9;FILE&#9;file:///Users/trinadhkoya/react-native-app-boilerplate/src/navigation/index.js&#10;go&#9;null&#9;null&#10;registe&#9;null&#9;null&#10;Home&#9;null&#9;null&#10;Welcome&#9;FILE&#9;file:///Users/trinadhkoya/react-native-app-boilerplate/src/WelcomeScreen.js&#10;colo&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/_globals/colorPalette.js&#10;pack&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/package.json&#10;sc&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/_globals/screen.js&#10;Wel&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/WelcomeScreen.js&#10;regis&#9;null&#9;null&#10;Aut&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/AuthLoading.js&#10;Auth&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/AuthLoading.js&#10;pac&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/package.json&#10;Ht&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/_globals/HttpRequest.js&#10;pa&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/package.json&#10;rou&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/routNames.js&#10;ACT&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Login/ACTION_TYPES.js&#10;.gi&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/.gitignore&#10;.es&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/.eslintrc&#10;App&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/App.js&#10;Scree&#9;FILE&#9;file:///Users/trinadhkoya/react-native-init/src/Screen1.js" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -404,10 +413,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46785000" />
+    <option name="totallyTimeSpent" value="48239000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="812" extended-state="6" />
+    <frame x="0" y="23" width="1106" height="812" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.19627507" />
@@ -425,7 +434,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32952926" />
       <window_info anchor="bottom" id="TypeScript" order="9" />
       <window_info anchor="bottom" id="RNConsole" order="10" weight="0.3281027" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.609375" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.60881937" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -449,18 +458,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="proper gitignore file added" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/hi.js" />
-    <entry file="file://$PROJECT_DIR$/src/SignUp/index.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/SignUp/ACTION_TYPES.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Login/actions.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider editor-type-id="Gfm" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="40">
@@ -469,6 +470,7 @@
           <second_editor />
         </state>
       </provider>
+      <provider editor-type-id="Gfm" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Login/ACTION_TYPES.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -477,24 +479,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-native/local-cli/templates/HelloNavigation/views/welcome/WelcomeScreen.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="23" column="3" lean-forward="true" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-native/local-cli/templates/HelloNavigation/views/HomeScreenTabNavigator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/react-native/local-cli/templates/HelloNavigation/App.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="15" column="28" lean-forward="true" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -551,13 +539,6 @@
     <entry file="file://$PROJECT_DIR$/src/_globals/Container.js" />
     <entry file="file://$PROJECT_DIR$/node_modules/react-native-ui-lib/typings/components/button/index.d.ts" />
     <entry file="file://$PROJECT_DIR$/node_modules/react-native-ui-lib/typings/components/image/index.d.ts" />
-    <entry file="file://$PROJECT_DIR$/src/_globals/ProgressBar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/react-native/Libraries/Components/Button.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -575,13 +556,6 @@
     <entry file="file://$PROJECT_DIR$/src/components/Button/nodeType.js" />
     <entry file="file://$PROJECT_DIR$/src/components/Button/ViewPropTypes.js" />
     <entry file="file://$PROJECT_DIR$/src/components/Button/ButtonGroup.js" />
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="142">
-          <caret line="20" column="29" lean-forward="true" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_Theme/fonts.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -590,13 +564,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/assets/img/icon/ic_launcher.png" />
-    <entry file="file://$PROJECT_DIR$/src/_Theme/TextView.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/_globals/styles.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="378">
@@ -612,13 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-473">
           <caret line="103" lean-forward="true" selection-start-line="103" selection-end-line="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/AuthLoading.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -650,13 +610,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/screens/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/screens/index.js" />
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -674,43 +628,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/WelcomeScreen.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="42" lean-forward="true" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="1" lean-forward="true" selection-end-line="23" />
-          <folding>
-            <element signature="e#0#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/navigation/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#51#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/routNames.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Test2.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -718,10 +635,115 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/local-cli/templates/HelloNavigation/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="16" column="2" selection-start-line="16" selection-start-column="2" selection-end-line="16" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/java/com/reactnativeinit/MainApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="153" selection-start-line="153" selection-end-line="153" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_Theme/TextView.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" lean-forward="true" selection-start-column="7" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="21" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/local-cli/templates/HelloNavigation/views/welcome/welcome-icon.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/react-native/local-cli/templates/HelloNavigation/views/welcome/WelcomeScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/routNames.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="42" selection-start-line="1" selection-start-column="42" selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/WelcomeScreen.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/_globals/ProgressBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="33" lean-forward="true" selection-start-line="15" selection-start-column="33" selection-end-line="15" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AuthLoading.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#43#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/screens.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" lean-forward="true" selection-end-line="22" />
+        <state relative-caret-position="108">
+          <caret line="6" column="62" lean-forward="true" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#51#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/navigation/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="458">
+          <caret line="107" column="13" lean-forward="true" selection-end-line="111" />
           <folding>
             <element signature="e#0#51#0" expanded="true" />
           </folding>

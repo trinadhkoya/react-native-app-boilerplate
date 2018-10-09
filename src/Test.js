@@ -7,7 +7,7 @@ class Test extends PureComponent {
 
     render() {
         return (
-            <View flex center style={styles.container}>
+            <View style={styles.container}>
                 <TextView>Screen1</TextView>
             </View>
         );

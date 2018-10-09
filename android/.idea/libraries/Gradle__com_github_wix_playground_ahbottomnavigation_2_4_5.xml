@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.wix-playground:ahbottomnavigation-2.4.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/ceb67493bd6ff593e08c351d17f440b7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.5.aar/ceb67493bd6ff593e08c351d17f440b7/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.wix-playground/ahbottomnavigation/2.4.5/546f056c4d68658845609c901266c62d7fc188b6/ahbottomnavigation-2.4.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
