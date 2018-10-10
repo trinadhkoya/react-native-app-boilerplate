@@ -1,24 +1,24 @@
 dependencies: \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/Libraries/Text/Text/RCTTextView.m \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/Libraries/Text/Text/RCTTextView.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/Libraries/Text/Text/RCTTextShadowView.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTShadowView.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLayout.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/Libraries/Text/BaseText/RCTBaseTextShadowView.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/Libraries/Text/RCTTextAttributes.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h

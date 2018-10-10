@@ -45,7 +45,7 @@ export const goToAuth = () => Navigation.setRoot({
                         options: {
                             bottomTab: {
                                 fontSize: 12,
-                                text: 'Tab1',
+                                text: 'Home',
                                 icon: peopleIcon
 
                             }
@@ -58,9 +58,22 @@ export const goToAuth = () => Navigation.setRoot({
                         options: {
                             bottomTab: {
                                 fontSize: 12,
-                                text: 'Tab2',
+                                text: 'Search',
                                 icon: settingsOutlineIcon
 
+
+                            }
+                        }
+                    },
+                },
+                {
+                    component: {
+                        name: SCREEN.EXPLORE_TAB,
+                        options: {
+                            bottomTab: {
+                                fontSize: 12,
+                                text: 'Explore',
+                                icon: settingsIcon
 
                             }
                         }
@@ -72,7 +85,7 @@ export const goToAuth = () => Navigation.setRoot({
                         options: {
                             bottomTab: {
                                 fontSize: 12,
-                                text: 'Tab3',
+                                text: 'My Account',
                                 icon: iosNavigateOutline
 
                             }
@@ -85,26 +98,14 @@ export const goToAuth = () => Navigation.setRoot({
                         options: {
                             bottomTab: {
                                 fontSize: 12,
-                                text: 'Tab4',
+                                text: 'Settings',
                                 icon: iosNavigate
 
                             }
                         }
                     },
                 },
-                {
-                    component: {
-                        name: SCREEN.HOME_TAB,
-                        options: {
-                            bottomTab: {
-                                fontSize: 12,
-                                text: 'Tab5',
-                                icon: settingsIcon
 
-                            }
-                        }
-                    },
-                },
             ],
         }
     }

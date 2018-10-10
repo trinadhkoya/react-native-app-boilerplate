@@ -1,20 +1,20 @@
 dependencies: \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.m \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.m \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h

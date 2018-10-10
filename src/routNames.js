@@ -8,4 +8,6 @@ export const SCREEN = {
     SEARCH_TAB: 'reactNative.Search',
     ACCOUNT_TAB: 'reactNative.Account',
     SETTINGS_TAB: 'reactNative.Settings',
+    EXPLORE_TAB: 'reactNative.Explore',
+
 };

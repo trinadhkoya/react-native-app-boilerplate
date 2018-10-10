@@ -1,23 +1,23 @@
 dependencies: \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Modules/RCTDevSettings.mm \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Modules/RCTDevSettings.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Base/RCTBridge.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Base/RCTDefines.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Base/RCTBridgeModule.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Base/RCTFrameUpdate.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Base/RCTInvalidating.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
-  /Users/trinadhkoya/react-native-init/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Base/RCTBridge+Private.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Base/RCTEventDispatcher.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Base/RCTLog.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Base/RCTAssert.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Base/RCTUtils.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Profiler/RCTProfile.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
-  /Users/trinadhkoya/react-native-init/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Modules/RCTDevSettings.mm \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Modules/RCTDevSettings.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Modules/RCTJSCSamplingProfiler.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/DevSupport/RCTInspectorDevServerHelper.h \
+  /Users/trinadhkoya/react-native-app-boilerplate/node_modules/react-native/React/Inspector/RCTInspectorPackagerConnection.h
